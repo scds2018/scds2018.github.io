@@ -55,3 +55,8 @@ We are planning to publish this white paper in a journal of high impact, in orde
 * Jörg Vogel, U Würzburg, Germany
 * Zhijin Wu, Department of Biostatistics, Brown University
 * Nir Yoseph, UC Berkeley
+
+
+# Venue
+
+The workshop will take place at the Oort building of the Lorentz Center in Leiden, Netherlands [[Google Maps]](https://goo.gl/maps/1ZuJ8p5ZjUo).
