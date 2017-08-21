@@ -9,10 +9,12 @@ Therefore, the application of such technologies are bearing the promise to revol
 Recent experimental advances, such as droplet microfluidics, have established breakthroughs that allow to sequence the DNA or RNA of tens of thousands (and not only of hundreds) of single cells in a massively parallel manner.
 The consequence is that single cell sequencing is on the verge of entering a new era, Single Cell Data Science.
 Ultra-high throughput sequencing protocols establish a clear boost for single cell biology.
+
 This era will also be characterized by computational issues that are intriguing to data and computer scientists, statisticians and modelers.
 Since the experimental advances have been very recent, the majority of such challenges are still fresh and yet to overcome.
 They will also have a decisive impact on how to store, arrange and what and when to extract from single cell based fragment datasets.
 The development of statistical frameworks, computational infrastructure and support are required.
+
 The goal of this workshop is to bring together single cell researchers of various related areas, such as cancer heterogeneity and evolution, immune system and early (stem cell) development, modeling, statistics and computer/data science.
 Together, we will review the current status in experimental technologies and future progress to be expected.
 We will then pinpoint computational and statistical challenges, and the avenues of research they can open up.
