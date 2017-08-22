@@ -29,28 +29,21 @@ We are planning to publish this white paper in a journal of high impact, in orde
 * Alexander Schönhuth, Centrum Wiskunde & Informatica, Amsterdam, Department of Biology, Universiteit Utrecht
 * Sohrab Shah, Departments of Pathology and Computer Science, University of British Columbia, Vancouver
 
-# Invited speakers
+# Speakers
 
 * Niko Beerenwinkel, ETH Zürich
-* Hans Clevers, Princess Maxima Center for Pediatric Oncology
-* Maria Florescu, Hubrecht Institute Utrecht
-* Victor Guryev, ERIBA Groningen
 * Stephanie Hicks, Dana-Farber Institute / Harvard University​ 
 * Rafael Irizarry, Harvard University Statistics Department
 * Katharina Jahn, ETH Zürich
 * Jan Korbel, European Moclecular Biology Laboratory (EMBL), Heidelberg 
-* Peter Lansdorp, UMC Groningen and BC Cancer Agency, Vancouver
-* Prisca Liberali, Friedrich-Miescher Institute, University Basel
 * John Marioni, Cancer Research UK, Cambridge
 * Tobias Marschall, Max Planck Institute for Informatics
-* Roeland Merks, Centrum Wiskunde & Informatica and Department of Mathematics, University Leiden
 * Jeffrey Moffitt, Harvard University
 * Nick Navin, MD Anderson Cancer Center, Houston, Texas
 * Luca Pinello, Massachusetts General Hospital, Harvard Medical School
 * Alexandros Stamatakis, Heidelberg Institute for Theoretical Studies
 * Oliver Stegle, European Molecular Biology Laboratory - European Bioinformatics Institute, Cambridge
 * Ewa Szcureck, University of Warsaw
-* Valerie Taly, Paris Decartes
 * Sarah Teichmann, Wellcome Trust Sanger Institute, Cambridge, UK
 * Fabian Theis, TU München, Germany
 * Catalina Vallejos, Alan Turing Institute and Department of Statistical Science, University College London
